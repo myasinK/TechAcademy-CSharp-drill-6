@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
